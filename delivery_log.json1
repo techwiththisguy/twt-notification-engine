@@ -1,0 +1,2 @@
+{"channel": "email", "status": "failed", "error": "module 'app.config' has no attribute 'DEFAULT_NOTIFY_EMAIL'", "ts": "2026-01-13T04:12:34.511704+00:00"}
+{"channel": "email", "status": "failed", "error": "module 'app.config' has no attribute 'DEFAULT_NOTIFY_EMAIL'", "ts": "2026-01-13T04:19:06.220518+00:00"}
