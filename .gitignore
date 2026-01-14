@@ -1,6 +1,22 @@
-venv/
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+#Virtual env
+venv/
 .env
+.env.*
+
+#Logs / data
+*.log
+*.sqlite
 *.db
-.DS_Store
+*.json1
+
+#VS Code
+.vscode/
